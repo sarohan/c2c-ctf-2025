@@ -11,9 +11,9 @@ languagename = "English"
 weight = 10
 
 [languages.en.params.paige]
-copyright = "© Will Faught"
-description = "Powerful, pliable pixel perfection"
-title = "Paige"
+# copyright = "© Will Faught"
+description = "A CTF Organized by Northeastern University"
+title = "C2C CTF 2025"
 
 [markup.goldmark.renderer]
 unsafe = true

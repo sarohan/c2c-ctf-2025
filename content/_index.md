@@ -1,5 +1,5 @@
 +++
-title = "Paige"
+title = "C2C CTF 2025"
 [paige.list_page]
 disable_collections = true
 disable_pages = true
@@ -10,20 +10,23 @@ disable_title = true
 
 {{< paige/image alt="Landscape" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" >}}
 
-<h1 class="fw-bold text-center" style="margin-top:2rem">An advanced Hugo theme</h1>
+<h1 class="fw-bold text-center" style="margin-top:2rem">A premier Capture-the-flag event!</h1>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead mb-0 text-center">Paige is designed to put your content front and center, avoiding the typical clutter. The look is seamless and smooth, scalable and readable, portable and efficient. The layout is minimal and responsive, using verticality and white space to delineate and highlight each part of the page. The implementation is flexible and extensible. It’s a versatile canvas that serves most web needs.</p>
+            <p class="lead mb-0 text-center">The Country to Country CTF (C2C) Cybersecurity Challenge is a series of international CTF competitions organized by the International Cyber Security – Center of Excellence (INCS-CoE) with leading international universities. The 2025 competition is hosted by Northeastern University. </p>
+        </div>
+        <div class="col col-auto col-lg-7 px-0">
+             <p class="lead mb-0 text-center">  C2C is an exciting opportunity for students to work together as international teams to solve interesting CTF challenges, learn new skills, socialize, and promote international collaboration and friendship. Interested university students across the US, UK, France, Israel, Japan and Australia participated in the qualifying competition on Feb ??, 2025. The final round of team competition will be held at Northeasten University, Boston on July 6 - 10, 2025.</p>
         </div>
     </div>
 </div>
 
 <p class="lead text-center">
-    <a href="https://github.com/willfaught/paige">Get started!</a>
+    <a href="https://google.com">Register Today!</a>
 </p>
 
-<div class="column-gap-3 d-flex display-6 justify-content-center">
+<!-- <div class="column-gap-3 d-flex display-6 justify-content-center">
     {{< paige/icon class="bi bi-github" title="GitHub" url="https://github.com/willfaught/paige" >}}
-</div>
+</div> -->
