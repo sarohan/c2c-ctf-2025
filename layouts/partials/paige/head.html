@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "meta.html" . }} <!-- This pulls metadata from the theme -->
+    <link rel="stylesheet" href="/css/custom.css"> <!-- Custom CSS -->
+    {{ block "css" . }}{{ end }} <!-- Keeps other CSS configurations from the theme -->
+    {{ block "head" . }}{{ end }} <!-- Includes any additional head content -->
+</head>

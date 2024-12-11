@@ -1,0 +1,29 @@
+/* Northeastern University Colors */
+body {
+    background-color: #FFFFFF; /* White */
+    color: #000000; /* Black */
+}
+
+a {
+    color: #CC0000; /* Northeastern Red */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #990000; /* Darker Red for hover */
+}
+
+.header, .footer {
+    background-color: #CC0000; /* Northeastern Red */
+    color: #FFFFFF; /* White text */
+}
+
+button, .btn {
+    background-color: #CC0000; /* Northeastern Red */
+    color: #FFFFFF; /* White text */
+    border: none;
+}
+
+button:hover, .btn:hover {
+    background-color: #990000; /* Darker Red */
+}
