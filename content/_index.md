@@ -8,7 +8,7 @@ disable_sections = true
 disable_title = true
 +++
 
-{{< paige/image alt="Landscape" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" >}}
+{{< paige/image alt="Landscape" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" height="100%" loading="eager" process="" src="https://zzm7000.github.io/c2c/assets/images/C2C_Logo.png" width="100%" >}}
 
 <h1 class="fw-bold text-center" style="margin-top:2rem">A premier Capture-the-flag event!</h1>
 

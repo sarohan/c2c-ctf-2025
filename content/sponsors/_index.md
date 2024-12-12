@@ -6,7 +6,7 @@ title = "Sponsors"
 
 # Platinum Sponsor
 
-![Hello](../../assets/NU.png)
+{{< paige/image alt="Landscape" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://i.postimg.cc/RCp6xYbN/NU.png" width="100%" >}}
 
 # Silver Sponsor
 
