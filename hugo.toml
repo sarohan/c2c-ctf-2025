@@ -1,8 +1,11 @@
 baseurl = "https://c2c-ctf-2025.org"
 enablerobotstxt = true
 paginate = 50
-timezone = "America/Los_Angeles"
+timezone = "America/New_York"
 titlecasestyle = "Go"
+relativeURLs = false
+canonifyURLs = true
+
 
 [languages.en]
 languagecode = "en-us"
