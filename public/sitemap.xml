@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.com/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
   </url><url>
-    <loc>https://example.com/history/</loc>
+    <loc>http://localhost:1313/history/</loc>
   </url><url>
-    <loc>https://example.com/organizers/</loc>
+    <loc>http://localhost:1313/organizers/</loc>
   </url><url>
-    <loc>https://example.com/rules/</loc>
+    <loc>http://localhost:1313/rules/</loc>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://example.com/sponsors/</loc>
+    <loc>http://localhost:1313/sponsors/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://example.com/winners/</loc>
+    <loc>http://localhost:1313/winners/</loc>
   </url>
 </urlset>

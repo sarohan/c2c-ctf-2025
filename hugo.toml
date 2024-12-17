@@ -84,4 +84,4 @@ hover_color = "#990000" # Darker shade of Red for hover effects
 text_color = "#000000"
 
 [params]
-custom_css = "/css/custom.css"
+custom_css = "/css/custom.css" 
